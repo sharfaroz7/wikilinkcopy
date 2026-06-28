@@ -1,0 +1,10 @@
+{
+  "id": "copy-note-wikilink",
+  "name": "Copy Note Wikilink",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Copy the selected note or search result as a wikilink.",
+  "author": "Sharfaroz",
+  "authorUrl": "https://github.com/sharfaroz",
+  "isDesktopOnly": false
+}
