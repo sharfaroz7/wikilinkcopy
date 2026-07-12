@@ -22,7 +22,13 @@ When a supported search modal is open, highlight the result you want, then use t
 
 Search-result support depends on the selected result being exposed in the modal DOM. If a third-party search plugin changes its result markup, copying from that plugin may need an update.
 
-## Manual installation
+## Installation 
+
+### Community plugins 
+
+The plugin is available on the community plugin store. https://community.obsidian.md/plugins/copy-note-wikilink
+
+### Manual installation
 
 1. Download `main.js` and `manifest.json` from a release.
 2. Put them in `<vault>/.obsidian/plugins/copy-note-wikilink/`.
